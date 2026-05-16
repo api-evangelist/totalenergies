@@ -7,11 +7,29 @@ tags:
   - Energy
   - Oil & Gas
   - Renewables
+  - Electricity
+  - Charging
 description: 'A French multinational integrated energy company operating across oil, natural gas, and low-carbon electricity. One of the largest energy companies in the world with significant investments in solar, wind, and battery storage.'
 created: '2026-05-05'
-modified: '2026-05-05'
+modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
 common:
   - type: Website
     url: https://totalenergies.com/
+  - type: News
+    url: https://totalenergies.com/news
+  - type: Investors
+    url: https://totalenergies.com/investors
+  - type: Careers
+    url: https://careers.totalenergies.com/
+  - type: Sustainability
+    url: https://totalenergies.com/sustainability
+  - type: Electricity
+    url: https://totalenergies.com/expertise/power-renewables
+  - type: Charging
+    url: https://services.totalenergies.fr/particuliers/electricite-renouvelable/borne-recharge
+maintainers:
+  - FN: API Evangelist
+    email: info@apievangelist.com
+    X: '@apievangelist'

@@ -13,5 +13,11 @@ A French multinational integrated energy company operating across oil, natural g
 ## Timestamps
 
 - **Created:** 2026-05-05
-- **Modified:** 2026-05-05
+- **Modified:** 2026-05-16
+
+## Status
+
+TotalEnergies does not currently expose a unified public developer portal or self-service API. Customer-facing services (fuel cards, EV charging, electricity tariffs, lubricants distribution) operate through region-specific business systems and direct B2B integrations rather than a documented public API.
+
+This repository is being tracked for future updates if and when developer documentation becomes available.
 
