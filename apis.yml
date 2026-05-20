@@ -15,6 +15,10 @@ modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/TotalEnergies
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/totalenergies
   - type: Website
     url: https://totalenergies.com/
   - type: News
