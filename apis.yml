@@ -15,6 +15,10 @@ modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: VulnerabilityDisclosure
+    url: security/totalenergies-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/totalenergies-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/TotalEnergies
   - type: LinkedIn
